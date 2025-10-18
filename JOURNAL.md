@@ -34,3 +34,31 @@ The pretty obvious choice is the Malenki Nano, which will be sourced from the sa
 I'll get to doing the weapon motor, and other components tomorrow.
   
 
+## 10/18/2025 - Started on Chassis  
+
+Based on that research, I moved onto the creation of the chassis.
+
+In terms of the wheels, I was inspired by this video (https://www.youtube.com/watch?v=wSwuph2TElI), and really wanted to have a go at casting custom wheels.
+
+
+
+I came up with this wheel design, having a 25mm OD, with a press-fit 3mm D-Shaft for linking to the N10 motor. This is what it all looks like when it's assembled.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk2NywicHVyIjoiYmxvYl9pZCJ9fQ==--9aa1fc7052ab6b9cd819643eede636180daf49da/image.png)
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--12761ea473755e5eb292d4da5e9786cd180bc825/image.png)
+
+I also plan to source a dye for these wheels, to enhance the colour scheme of the robot.
+
+I then worked on integrating that into a chassis.
+
+I thought it'd be very important to have adequate protection on the wheels, so I added in some thick guards around them. The chassis will be printed from a PP filament.
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f3dbd73ac60f615ef783f2d33a69ee42c5cbb6b/image.png)
+
+
+It is 140mm in length at the moment.
+  
+
