@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **150g Antweight Battlebot**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/314).
-
-
 ## 10/8/2025 - Part Sourcing and Identification  
 
 
@@ -60,5 +56,30 @@ I thought it'd be very important to have adequate protection on the wheels, so I
 
 
 It is 140mm in length at the moment.
+  
+
+## 10/21/2025 - Chassis Additions  
+
+Moving on from the base of the chassis that I created a few days ago, I wanted to add the following:
+
+- Front wedges.
+- Blade Cutout
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--12556b832518819d6430ec293a2e30e053acaf37/image.png)
+
+To create a wedge effect at the front, I added thin struts that come off the main body, with then a thin piece of titanium sheet on the front.
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--bb12bf1717e5ece9c1a10c64a9b5137cd85b7d4d/image.png)
+
+I also added a small angle across the whole back face, which I think should help the combat performance. 
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAxNywicHVyIjoiYmxvYl9pZCJ9fQ==--21a156afeaa6a96a03ff9727417aa5231668fb45/image.png)
+
+
+
+
+
   
 
