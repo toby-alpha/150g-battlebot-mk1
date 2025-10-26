@@ -83,7 +83,7 @@ I also added a small angle across the whole back face, which I think should help
 
   
 
-## 10/26/2025 - Blade Developement  
+## 10/26/2025 5 PM - Blade Developement  
 
 I firstly started by working on the overall blade shape, from which I drew inspiration from other vertical spinners that have had success.
 
@@ -114,4 +114,18 @@ In the end... I decided I didn't quite like the blade, and redid it again :), ch
 
 
   
+
+## 10/26/2025 7 PM - Weapon Motor Mounting  
+
+I also added the mount for the 2207 - with the option to become 2204.5 if weight is an issue.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--6a895f0aaf5e500d90dc7d306d0fe258f79ef987/image.png)
+
+To do this, I used 2, 2mm carbon fibre plates, which are then pocketed to allow for more weight to be allocated into the weapon system.
+
+The shaft of the motor will be turned down, and then will fit into a 5mm ID flanged bearing.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY1NywicHVyIjoiYmxvYl9pZCJ9fQ==--8b02844eae9afb5e973f5319fc4ab9ff08b47b08/image.png)
+
+This is how it's looking so far.  
 
