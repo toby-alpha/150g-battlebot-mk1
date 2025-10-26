@@ -83,3 +83,30 @@ I also added a small angle across the whole back face, which I think should help
 
   
 
+## 10/26/2025 - Blade Developement  
+
+I firstly started by working on the overall blade shape, from which I drew inspiration from other vertical spinners that have had success.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--39a10ab69690b745b3d39576c827eaa91fc08254/image.png)
+
+Above is my first (balanced) weapon, but I didn't quite like the tooth size.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a9f62be7e572b5625e0a74b0d176c8eddd714c77/image.png)
+
+In the next version I fixed that.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--001b2c2334cf3185f73d92b0eb8e0b811914c577/image.png)
+
+The following report from Solidworks shows that it's very balanced.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--def65f90ff8503d35abf4fffa5f1a327889b211a/image.png)
+
+When cut from Titanium at PCBWay, it'll weigh 24g.
+
+It'll be coupled with a 2207 motor.
+
+
+
+
+  
+
