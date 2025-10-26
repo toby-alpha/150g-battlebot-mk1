@@ -105,6 +105,11 @@ When cut from Titanium at PCBWay, it'll weigh 24g.
 
 It'll be coupled with a 2207 motor.
 
+In the end... I decided I didn't quite like the blade, and redid it again :), changing the location of the counterbalance.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--84ccde5373f246d4e6c94a8c05dd61a0fea41e1a/image.png)
+
+
 
 
 
