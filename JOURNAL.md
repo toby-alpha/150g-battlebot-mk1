@@ -129,3 +129,14 @@ The shaft of the motor will be turned down, and then will fit into a 5mm ID flan
 
 This is how it's looking so far.  
 
+## 11/9/2025 - Top Plate  
+
+Today I worked on the integration of a top plate into the design, which will protect the electronics inside.
+
+I also furthered work on the chassis 3D print, and the weapon mounts.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--54ad6f5d4441b7320a18d87e9c26ac6717b1dfd7/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--d5d16194ee65ff971c8e24af2f0cb1c264e1b5b2/image.png)
+  
+
